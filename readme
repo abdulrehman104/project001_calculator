@@ -1,0 +1,5 @@
+STEP 01:
+Create a file main.ts, then create a tsconfig.json & package.json file.
+
+STEP 02:
+Install Inquirer and its types.
